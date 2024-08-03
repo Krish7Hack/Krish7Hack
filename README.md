@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish7Hack</h1>
-# 💫 About Me:
-🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️<br>👨‍💻 Love to learn new technologies and to explore new sets of areas.<br>📚 Founder @DSAwithPrinceSingh<br>👁‍🗨 Open Source Contributor<br>👨‍🏫 Mentor on @Topmate <br>🚀 Passionate About Crafting Efficient Code<br>👯 I’m looking to collaborate on OpenSource Projects<br>⚡ For Fun Gym, Cold Shower and Reading
+##💫 About Me:
+🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️<br>👨‍💻 Love to learn new technologies and to explore new sets of areas.<br>👁‍🗨 Open Source Contributor<br>👨‍🏫 Mentor on @Topmate <br>🚀 Passionate About Crafting Efficient Code<br>👯 I’m looking to collaborate on OpenSource Projects<br>⚡ For Fun Gym, Cold Shower and Reading
 
 
 ## 🌐 Socials:
