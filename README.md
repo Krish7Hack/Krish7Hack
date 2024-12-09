@@ -2,7 +2,7 @@
 ##💫 About Me:
 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️<br>👨‍💻 Love to learn new technologies and to explore new sets of areas.<br>👁‍🗨 Open Source Contributor<br>👨‍🏫 Mentor on @Topmate <br>🚀 Passionate About Crafting Efficient Code<br>👯 I’m looking to collaborate on OpenSource Projects<br>⚡ For Fun Gym, Cold Shower and Reading
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={krishnamalani77}" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=krishnamalani77&animated=true" alt="LeetCode Badges"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_lifts11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KrishnaMalani) 
